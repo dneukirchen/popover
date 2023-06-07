@@ -11,24 +11,12 @@
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "target": "ES2022",
-    "typeRoots": [
-      "node_modules/@types"
-    ],
-    "lib": [
-      "es2015",
-      "dom"
-    ],
+    "typeRoots": ["node_modules/@types"],
+    "lib": ["es2015", "dom"],
     "paths": {
-      "@ncstate/sat-popover": [
-        "dist/popover"
-      ],
-      "core-js/es7/reflect": [
-        "node_modules/core-js/proposals/reflect-metadata",
-        "node_modules/core-js/es/reflect"
-      ],
-      "core-js/es6/*": [
-        "node_modules/core-js/es"
-      ]
+      "@dneukirchen/sat-popover": ["dist/popover"],
+      "core-js/es7/reflect": ["node_modules/core-js/proposals/reflect-metadata", "node_modules/core-js/es/reflect"],
+      "core-js/es6/*": ["node_modules/core-js/es"]
     },
     "useDefineForClassFields": false
   }
