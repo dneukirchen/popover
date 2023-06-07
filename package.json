@@ -1,5 +1,5 @@
 {
-  "name": "@ncstate/sat-popover",
+  "name": "@dneukirchen/sat-popover",
   "version": "10.0.0",
   "license": "MIT",
   "engines": {
@@ -31,12 +31,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ncstate-sat/popover.git"
+    "url": "git+https://github.com/dneukirchen/popover.git"
   },
   "bugs": {
-    "url": "https://github.com/ncstate-sat/popover/issues"
+    "url": "https://github.com/dneukirchen/popover/issues"
   },
-  "homepage": "https://github.com/ncstate-sat/popover#readme",
+  "homepage": "https://github.com/dneukirchen/popover#readme",
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.0.4",
     "@angular/animations": "^14.0.4",
