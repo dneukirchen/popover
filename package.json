@@ -1,6 +1,6 @@
 {
   "name": "@fincrm/sat-popover",
-  "version": "16.0.0",
+  "version": "16.0.1",
   "license": "MIT",
   "engines": {
     "node": "^16.14.0 || >=18.10.0"
@@ -17,6 +17,9 @@
     "test": "ng test popover",
     "test:once": "ng test popover --watch=false",
     "release": "ts-node tools/release.ts"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "private": true,
   "keywords": [
