@@ -1,5 +1,5 @@
 {
-  "name": "@dneukirchen/sat-popover",
+  "name": "@fincrm/sat-popover",
   "version": "16.0.0",
   "license": "MIT",
   "engines": {
@@ -29,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dneukirchen/popover.git"
+    "url": "git+https://github.com/fincrm/popover.git"
   },
   "bugs": {
-    "url": "https://github.com/dneukirchen/popover/issues"
+    "url": "https://github.com/fincrm/popover/issues"
   },
-  "homepage": "https://github.com/dneukirchen/popover#readme",
+  "homepage": "https://github.com/fincrm/popover#readme",
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.0.5",
     "@angular-eslint/builder": "16.0.3",
