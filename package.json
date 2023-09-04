@@ -52,7 +52,7 @@
     "@angular/compiler": "^16.0.5",
     "@angular/compiler-cli": "^16.0.5",
     "@angular/core": "^16.0.5",
-    "@angular/forms": "^16.0.5",
+    "@angular/forms": "^16.2.3",
     "@angular/language-service": "^16.0.5",
     "@angular/material": "^16.0.4",
     "@angular/platform-browser": "^16.0.5",
