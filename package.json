@@ -45,7 +45,7 @@
     "@angular-eslint/eslint-plugin-template": "16.0.3",
     "@angular-eslint/schematics": "16.0.3",
     "@angular-eslint/template-parser": "16.0.3",
-    "@angular/animations": "^16.0.5",
+    "@angular/animations": "^16.2.11",
     "@angular/cdk": "^16.0.4",
     "@angular/cli": "^16.2.1",
     "@angular/common": "^16.0.5",
